@@ -27,3 +27,6 @@ gemini-receipt-analyzer/
 │
 └── sample_receipts/
     └── invoice-0.pdf          # Sample receipt used for testing
+
+
+[![Run on Replit](https://replit.com/badge/github/spatnaik123/gemini-receipt-analyzer)](https://replit.com/new/github/spatnaik123/gemini-receipt-analyzer)
